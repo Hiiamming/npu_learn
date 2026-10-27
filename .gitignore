@@ -1,0 +1,20 @@
+# Hexagon profiling / simulator trace dump
+gmon.*
+
+# Build output / binaries
+main
+*.o
+*.so
+
+# WSL / Windows metadata
+*Zone.Identifier
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# AI tool configs / cache (nếu không cần chia sẻ)
+.agents/
+.codex/
+
+# File nháp cá nhân
+lenh.txt
